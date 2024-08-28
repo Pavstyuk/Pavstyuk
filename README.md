@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nikhaik @Pavstyuk
+- 👋 Hi, I’m Mikhaik @Pavstyuk
 - 👀 I’m interested in web programming JS PHP CSS HTML and web design...
 - 🌱 I’m currently learning GO
 - 💞️ I’m looking to collaborate on web projects that could make life better.
