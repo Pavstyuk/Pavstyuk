@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mikhaik @Pavstyuk
-- 👀 I’m interested in web programming JS PHP CSS HTML, web design...
-- 🌱 I’m currently workig hard
+- 👀 I’m FullStack web developer PHP, JS, HTML, CSS,
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on web projects that could make life better.
 - 📫 How to reach me? Telegram: @pavstyuk, Email: mikhail@pavstyuk.ru, web: pavstyuk.ru
 - ⚡ Fun fact: No code - no bugs.
